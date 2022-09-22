@@ -7,7 +7,6 @@
 - Cross Device support on Tachiyomi
 -         
 - 📫 How to reach me 
--     Discord: NomadicVenus(Bryan)#5025 
 -     Email:   Bryantejeda1738@outlook.com
 
 <!---
